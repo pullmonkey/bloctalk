@@ -50,6 +50,8 @@ Enter a password below that and click OK.
 
 http://truffleframework.com/tutorials/images/pet-shop/metamask-seed.png
 
+Note: If you already had metamask installed or need a way to import this mnemonic - you need to restore from seed.  To do this - first lock your current session (assuming you've saved your current seed for later).  Then click on "restore from seed" at the bottom and enter the mnemonic from above.
+
 Now we need to connect MetaMask to the blockchain created by Truffle Develop. Click the menu that shows "Main Network" and select Custom RPC.
 
 In the box titled "New RPC URL" enter http://localhost:9545 and click Save.
