@@ -18,7 +18,7 @@ migrate
 ```
 
 ### Installing and Configuring MetaMask
-The easiest way to interact with our dapp in a browser is through MetaMask, an extension for Chrome.
+The easiest way to interact with our dapp in a browser is through MetaMask, an extension for Chrome and Firefox.
 
 Install MetaMask in your browser.
 
