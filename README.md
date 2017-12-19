@@ -20,6 +20,9 @@ In the development console, compile and migrate the smart contracts
 compile
 migrate
 ```
+To exit Truffle use:
+
+```.exit```
 
 ### Installing and Configuring MetaMask
 The easiest way to interact with our dapp in a browser is through MetaMask, an extension for Chrome and Firefox.
