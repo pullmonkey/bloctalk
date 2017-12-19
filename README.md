@@ -60,7 +60,7 @@ The network name at the top will switch to say "Private Network".
 
 Click the left-pointing arrow next to "Settings" to close out of the page and return to the Accounts page.
 
-Each account created by Truffle Develop is given 100 ether. You'll notice it's slightly less on the first account because some gas was used when the contract itself was deployed.
+Each account created by Truffle Develop is given 100 ether. You may (not in all cases) notice it's slightly less on the first account because some gas was used when the contract itself was deployed.
 
 http://truffleframework.com/tutorials/images/pet-shop/metamask-account1.png
 
