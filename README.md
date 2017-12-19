@@ -2,7 +2,11 @@
 A decentralized chat application to interact anonymously with those around you
 
 ## Development
-Install the truffle development framework (http://truffleframework.com/)
+Install basic node packages with
+
+```npm install```
+
+Next, install the truffle development framework (http://truffleframework.com/)
 
 ```npm install -g truffle```
 
